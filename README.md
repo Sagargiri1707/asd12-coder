@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ## Tech stack
 #### Programming Languages:
-JavaScript,TypeScript,C,Python
+JavaScript,TypeScript
 #### Technoloies worked with:
 ReactJs , NodeJs, ExpressJs,MongoDB,GraphQL,Data Structures and Algorithms HTML,CSS,Redux,SEO , PWA,Design patterns, System design,Flux Architecture
 #### Skills familiar with:
